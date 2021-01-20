@@ -1,0 +1,15 @@
+{
+  "name": "aula06-testes",
+  "version": "1.0.0",
+  "description": "Projeto para a Aula 06 do Lab de C214",
+  "main": "src/index.js",
+  "author": "Vanessa Swerts",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
