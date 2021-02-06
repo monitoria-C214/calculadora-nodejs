@@ -13,7 +13,7 @@
 $ git clone https://github.com/monitoria-C214/aula06-calculadora.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd aula06-calculadora
+$ cd calculadora-nodejs
 
 # Instale as dependências
 $ yarn install
@@ -21,8 +21,6 @@ $ yarn install
 # Execute os testes
 $ yarn test
 
-# Execute o Coverage
-$ yarn coverage
 ```
 ---
 
