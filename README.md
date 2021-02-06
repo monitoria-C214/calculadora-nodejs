@@ -10,7 +10,7 @@
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/monitoria-C214/aula06-calculadora.git
+$ git clone https://github.com/monitoria-C214/calculadora-nodejs.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd calculadora-nodejs
