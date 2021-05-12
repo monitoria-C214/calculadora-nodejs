@@ -1,5 +1,6 @@
-# Aula 06 - Testes Unitários   
+# Aula 06 - Testes Unitários  
 
+<img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/monitoria-C214/calculadora-nodejs/calculadora-teste">
 
 ## 🛠 Conceitos abordados:
 
